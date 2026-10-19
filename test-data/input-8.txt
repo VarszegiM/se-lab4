@@ -1,0 +1,2 @@
+GT4500,1,0,0,0 # createna ship with only one rocket in it's primary store
+TORPEDO,ERROR  # should have fired from the primary store
